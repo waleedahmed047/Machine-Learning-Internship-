@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R2 Score
+Linear Regression,582.7369,3218.0701,0.0093
+Elastic Net,582.3704,3218.0851,0.0092
+Ridge Regression,582.6455,3218.0763,0.0092
+Lasso Regression,518.5598,3223.9437,0.0056
+Dummy Regressor,617.5312,3233.06,-0.0
